@@ -1,11 +1,4 @@
 .lmj-banner {
-  color: black;
-  text-align: right;
-  padding: 32px;
-  border-bottom: solid 3px black;
-}
-
-.lmj-banner {
 	color: black;
 	text-align: right;
 	padding: 32px;
@@ -23,10 +16,4 @@
 .lmj-logo {
 	height: 45px;
 	width: 45px;
-}
-
-.lmj-cart {
-  padding: 35px;
-  color: white;
-  background: #31b572;
 }
